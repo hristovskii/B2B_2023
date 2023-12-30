@@ -25,3 +25,5 @@ email: petarhristovski23@gmail.com (Многу поретко, контакти�
 #AjTi
 
 27.12.2023 
+
+![](kolokvium_2/LC_Skopje_red_background.png)
